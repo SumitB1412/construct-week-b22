@@ -1,0 +1,72 @@
+{
+  "menData": [
+    {
+      "brand": "Levis",
+      "title": "Denim Jeans",
+      "desc": "Something",
+      "img": "some link here",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    },
+    {
+      "brand": "Wrangler",
+      "title": "Denim Shirt",
+      "desc": "something",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    },
+    {
+      "brand": "Wrangler",
+      "title": "Denim Shirt",
+      "desc": "something",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    },
+    {
+      "brand": "Wrangler",
+      "title": "Denim Shirt",
+      "desc": "something",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    }
+  ],
+  "womenData": [
+    {
+      "brand": "Levis",
+      "title": "Denim Jeans",
+      "desc": "Something",
+      "img": "some link here",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    },
+    {
+      "brand": "Wrangler",
+      "title": "Denim Shirt",
+      "desc": "something",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    },
+    {
+      "brand": "Wrangler",
+      "title": "Denim Shirt",
+      "desc": "something",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    },
+    {
+      "brand": "Wrangler",
+      "title": "Denim Shirt",
+      "desc": "something",
+      "price": "2999",
+      "cutoffPrice": "3999",
+      "rating": "4.5"
+    }
+  ]
+}
