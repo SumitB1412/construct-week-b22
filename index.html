@@ -14,7 +14,19 @@
 
 </html>
 
-<!-- git pull origin master -->
-<!-- git add . -->
-<!-- git commit  -->
-<!-- git push origin <branch-name> -->
+<script>
+    let arr = [];
+    function getData() {
+        fetch("./data/allProducts.json").then((res) => res.json()).then((data) => {
+            // console.log(data.menData);
+            arr = [...data.menData];
+            appendData(arr);
+        }).catch((err) => console.log(err));
+        // console.log(data);
+    }
+    getData()
+
+    function appendData(data){
+        console.log(data);
+    }
+</script>
